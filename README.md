@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, I'm Kamal! 👋
+
+👨‍💻 Software Development Enthusiast, venturing into all things tech!</br>
+👨‍🎓 Studying Computer Science Engineering Specialising in AI & ML in VIT Chennai</br>
+💭 Currently learning about AI and game development</br>
+🖼️ Hobbyist author and filmmaker</br>
+📫 Reach out to me on LinkedIn (https://www.linkedin.com/in/v-kamal-jerome)</br>
 
 <!--
 **KamalJerome/KamalJerome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
