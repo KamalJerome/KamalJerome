@@ -5,7 +5,8 @@
 💭 Currently learning about AI and game development</br>
 🖼️ Hobbyist author and filmmaker</br>
 📫 Reach out to me on LinkedIn (https://www.linkedin.com/in/v-kamal-jerome)</br>
-
+</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalJerome&theme=chartreuse-dark&show_icons=true)
 <!--
 **KamalJerome/KamalJerome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
