@@ -4,7 +4,7 @@
 👨‍🎓 Studying Computer Science Engineering Specialising in AI & ML in VIT Chennai</br>
 💭 Currently learning about AI and game development</br>
 🖼️ Hobbyist author and filmmaker</br>
-📫 Reach out to me on LinkedIn (https://www.linkedin.com/in/v-kamal-jerome)</br>
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/v-kamal-jerome)!</br>
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamalJerome&theme=chartreuse-dark&show_icons=true)
 <!--
